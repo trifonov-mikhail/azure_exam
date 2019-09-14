@@ -5,7 +5,6 @@ LOCATION=eastus
 AKS_NAME=akscluster
 NODE_COUNT=1
 
-
 #check if exists group
 rgExists=$(az group exists --name $RG_NAME)
 if [ "$rgExists" = true ] ; then
