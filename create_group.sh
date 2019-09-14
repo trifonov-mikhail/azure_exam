@@ -1,3 +1,4 @@
+#!/bin/bash
 RG_NAME=lab1_exam_ks
 LOCATION=eastus
 rgExists=$(az group exists --name RG_NAME)
