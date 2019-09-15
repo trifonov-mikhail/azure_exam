@@ -15,6 +15,8 @@ echo "Creating group $RG_NAME"
 az group create --name $RG_NAME --location $LOCATION
 
 #create aks
+echo "Creating AKS ${AKS_NAME}"
 az aks create --resource-group $RG_NAME --name $AKS_NAME --node-count $NODE_COUNT --enable-addons monitoring --generate-ssh-keys
 
-az aks get-credentials --resource-group $RG_NAME --name $AKS_NAME
+echo "Getting credential ${AKS_NAME}"
+az aks get-credentials --resource-group $RG_NAME --name $AKS_NAME --overwrite-existing
