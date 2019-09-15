@@ -6,3 +6,4 @@ AKS_NAME=akscluster
 ACR_NAME="lab1examACR"
 
 az acr create --resource-group $RG_NAME --name $ACR_NAME --sku Basic
+az acr login --name $ACR_NAME
