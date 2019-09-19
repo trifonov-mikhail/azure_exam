@@ -1,0 +1,11 @@
+/home/mikhail/azure_exam/GitLab1/AzBatch/bin/Debug/netcoreapp2.2/AzBatch.deps.json
+/home/mikhail/azure_exam/GitLab1/AzBatch/bin/Debug/netcoreapp2.2/AzBatch.runtimeconfig.json
+/home/mikhail/azure_exam/GitLab1/AzBatch/bin/Debug/netcoreapp2.2/AzBatch.runtimeconfig.dev.json
+/home/mikhail/azure_exam/GitLab1/AzBatch/bin/Debug/netcoreapp2.2/AzBatch.dll
+/home/mikhail/azure_exam/GitLab1/AzBatch/bin/Debug/netcoreapp2.2/AzBatch.pdb
+/home/mikhail/azure_exam/GitLab1/AzBatch/obj/Debug/netcoreapp2.2/AzBatch.csprojAssemblyReference.cache
+/home/mikhail/azure_exam/GitLab1/AzBatch/obj/Debug/netcoreapp2.2/AzBatch.csproj.CoreCompileInputs.cache
+/home/mikhail/azure_exam/GitLab1/AzBatch/obj/Debug/netcoreapp2.2/AzBatch.AssemblyInfoInputs.cache
+/home/mikhail/azure_exam/GitLab1/AzBatch/obj/Debug/netcoreapp2.2/AzBatch.AssemblyInfo.cs
+/home/mikhail/azure_exam/GitLab1/AzBatch/obj/Debug/netcoreapp2.2/AzBatch.dll
+/home/mikhail/azure_exam/GitLab1/AzBatch/obj/Debug/netcoreapp2.2/AzBatch.pdb

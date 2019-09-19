@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/mikhail/azure_exam/GitLab1/AzBatch/AzBatch.csproj": {}
+  },
+  "projects": {
+    "/home/mikhail/azure_exam/GitLab1/AzBatch/AzBatch.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mikhail/azure_exam/GitLab1/AzBatch/AzBatch.csproj",
+        "projectName": "AzBatch",
+        "projectPath": "/home/mikhail/azure_exam/GitLab1/AzBatch/AzBatch.csproj",
+        "packagesPath": "/home/mikhail/.nuget/packages/",
+        "outputPath": "/home/mikhail/azure_exam/GitLab1/AzBatch/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/mikhail/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.Azure.Batch": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.Azure.Storage.Blob": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
